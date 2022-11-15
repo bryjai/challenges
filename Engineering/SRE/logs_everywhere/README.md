@@ -1,6 +1,6 @@
 # Bryj.ai DevOps/SRE Challenge
 
-## Logs Everywhere - Challenge
+## Logs Everywhere
 
 This challenge is composed of multiple parts. You should add the code that solves each part to its specific folder.
 

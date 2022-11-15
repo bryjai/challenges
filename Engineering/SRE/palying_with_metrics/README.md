@@ -1,6 +1,6 @@
 # Bryj.ai DevOps/SRE Challenge
 
-## Playing with Metrics - Challenge
+## Playing with Metrics
 
 Your task is to write a script that is able to parse metrics from a defined local container and send an alert to a slack channel if some metric is above a defined threshold. Once the alert is triggered, the script should be able to perform some actions.
 
