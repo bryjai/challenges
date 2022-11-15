@@ -29,8 +29,7 @@ The following table describes the fields of an access log entry, in order. All f
 
 ```
  
-You can download it from [here](https://fa-devops-challenge.s3-eu-west-1.amazonaws.com/lb_logs/partial.logs).
-
+The example log file is called [partial.logs](partial.logs).
 
 The expected output is the following:
 
