@@ -35,5 +35,4 @@ Input:
 Output pairs should be (Alice, Bob) and (Alice, Carol), so `[[1,2], [1,3]]`
 
 ### Answers
-Please provide your answer in the form of a pull request to <this> repository. You can use whatever programming language you want.
-
+Please provide your answer in the form of a public github repository created by you or a gist. Make sure your name is visible and send the link to jobs@bryj.ai.
