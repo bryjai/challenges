@@ -1,6 +1,6 @@
 # Social friend finder
 
-Imagine that you have a list of people, where for every person you have a list of things they like (called tags), Exmaple person: John, John's tags aree: fishing, movies, etc. How would you implement an algorithm that finds matching pairs of people that like at least 2 of the same thing (have 2 tags in common).
+Imagine that you have a list of people, where for every person you have a list of things they like (called tags), Example person: John, John's tags are: fishing, movies, etc. How would you implement an algorithm that finds matching pairs of people that like at least 2 of the same thing (have 2 tags in common).
 
 Data model: Person(id: number, name: string, tags: list of strings)
 Input: List of Persons
