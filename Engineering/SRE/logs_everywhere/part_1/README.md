@@ -21,10 +21,10 @@ The following table describes the fields of an access log entry, in order. All f
 
 ```
 | type          | The type of request or connection. Ex: https            |
-| date          | The date with the format yyyy/mm/dd                     |
+| date          | The date with the format yyyy-mm-dd                     |
 | source_ip     | The IP address of the requesting client.                |
 | response_time | Response time in ms                                     |
-| target_url    |  The target URL                                         |
+| target_url    | The target URL                                         |
 | http_code     | The status code of the response from the load balancer. |
 
 ```

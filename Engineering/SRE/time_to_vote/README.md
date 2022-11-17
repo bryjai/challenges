@@ -25,7 +25,7 @@ Please provide the instructions to run the time series database and the query to
 
 ### Part 3
 
-For this next task you should create a new export function to AWS S3. This task should export the poll results to S3 in one CSV file per question and each file must contain one line per vote with the choice (ID or choice's text) and the date of the vote like bellow:
+For this next task you should create a new export function to AWS S3. This task should export the poll results to S3 in one CSV file per question and each file must contain one line per vote with the choice (ID or choice's text) and the UTC date of the vote like bellow (you can format the date as you wish, like the example below or in ISO 8601):
 
 ```text
 question_1.csv:
